@@ -1,0 +1,2 @@
+MacTDS.zip filter=lfs diff=lfs merge=lfs -text
+WinTDS.zip filter=lfs diff=lfs merge=lfs -text
